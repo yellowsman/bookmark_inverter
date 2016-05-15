@@ -9,5 +9,6 @@ this program inversion vivaldi bookmark list.
 ruby bkmarkinversion.rb [bookmark path]
 ```
 
-this program run Ruby 2.0.0 over enviroment.
+This program run Ruby 2.0.0 over enviroment.
 
+Good-bye!
